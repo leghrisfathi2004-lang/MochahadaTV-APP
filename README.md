@@ -85,6 +85,7 @@ To add your server and get the app running, please contact our support team:
 
 ### Settings & Parental Controls
 <img width="2778" height="1284" alt="Image" src="https://github.com/user-attachments/assets/cf7aace8-65cf-44a5-bdb7-302d3b23bf74" />
+
 - **Parental PIN:** set, change, or remove a 4-digit PIN
 - **Adult category lock:** when enabled (requires PIN), filters out adult/xxx/18+ categories from live, movies, and series
 - **Auto-play next episode** toggle
