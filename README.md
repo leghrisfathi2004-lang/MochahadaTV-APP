@@ -11,6 +11,7 @@ To add your server and get the app running, please contact our support team:
 
 ### Login & Smart Host Resolution
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60b9b659-201f-4b06-bdf5-521124078501" />
+
 - Enter username and password to authenticate against an Xtream panel
 - All available hosts are probed simultaneously with a 5-second timeout per host
 - The fastest valid host is cached — no re-probing on subsequent launches
@@ -19,12 +20,14 @@ To add your server and get the app running, please contact our support team:
 
 ### Home Screen
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/181f63c6-d7c2-4f92-ab9c-c7d954a8bc71" />
+
 - TV-style 4-tile launcher: **Live TV**, **Movies**, **Series**, **Settings**
 - **Continue Watching** row at the top — shows your 20 most recent plays across all content types, resuming from where you left off
 - D-pad friendly with focus-based gold highlight for Android TV navigation
 
 ### Live TV
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8653a1d8-84c1-45c7-a7c0-ba02affd35f1" />
+
 - Three-pane layout: categories on the left, channels in the middle, inline preview on the right
 - First tap on a channel loads an inline preview so you can keep browsing
 - Second tap goes fullscreen
@@ -32,12 +35,14 @@ To add your server and get the app running, please contact our support team:
 
 ### Movies (VOD)
 <img width="2778" height="1284" alt="Image" src="https://github.com/user-attachments/assets/0c58faf0-9536-4a32-8493-2884d185ad97" />
+
 - Browse by category with a 4-column poster grid (2:3 aspect ratio)
 - Detail page with backdrop, plot, year, rating, genre, and duration
 - One-tap playback with automatic resume from where you stopped
 
 ### Series
 <img width="2778" height="1284" alt="Image" src="https://github.com/user-attachments/assets/8f29f538-0153-42b3-a84b-fe477a4e6574" />
+
 - Category browsing with the same poster grid as movies
 - Landscape detail page with hero cover, metadata, and horizontal season selector chips
 - 4-column episode grid with thumbnails
